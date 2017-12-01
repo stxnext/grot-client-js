@@ -1,0 +1,28 @@
+{
+  "name": "grot-client-js",
+  "version": "1.0.0",
+  "description": "JS version of grot client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stxnext/grot-client-js.git"
+  },
+  "keywords": [
+    "stxnext",
+    "grot"
+  ],
+  "author": "Jacek Mirowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stxnext/grot-client-js/issues"
+  },
+  "homepage": "https://github.com/stxnext/grot-client-js#readme",
+  "dependencies": {
+    "commander": "^2.12.2",
+    "request": "^2.83.0",
+    "request-promise-native": "^1.0.5"
+  }
+}
